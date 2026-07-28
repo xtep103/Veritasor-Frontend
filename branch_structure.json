@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "uiux/density-preview-thumbs",
+    "uiux/export-large-async",
+    "uiux/settings-security-tab"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "uiux/density-preview-thumbs": "main",
+    "uiux/export-large-async": "main",
+    "uiux/settings-security-tab": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "uiux/density-preview-thumbs",
+    "uiux/export-large-async",
+    "uiux/settings-security-tab"
+  ]
+}
